@@ -1,5 +1,5 @@
 package Kwiki::IRCMode;
-our $VERSION = '0.30';
+our $VERSION = '0.301';
 
 =head1 NAME
 
@@ -7,7 +7,7 @@ Kwiki::IRCMode - colorized IRC conversations in your Kwiki
 
 =head1 VERSION
 
-version 0.20
+version 0.301
 
 =head1 SYNOPSIS
 
