@@ -1,5 +1,8 @@
 Revision history for Kwiki::IRCMode
 
+0.301   2007-03-22
+        kwalitee
+
 0.30    2005-07-01
         use Parse::IRCLog, thus sucking less
 
